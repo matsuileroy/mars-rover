@@ -1,4 +1,4 @@
-# mars-rover
+# Ariel's Mars Rover
 
 ## Requirements
 - Node.js, download page [here](https://nodejs.org/en/download/) 
